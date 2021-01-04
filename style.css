@@ -39,6 +39,12 @@ section{
 }
 h2{
     font-size: 40px;
+   
+}
+.exp{
+    position: relative;
+    left: 80px;
+    right: 20px;
 }
 p{
     color: dimgray;
